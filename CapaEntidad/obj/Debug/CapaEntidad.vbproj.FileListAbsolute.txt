@@ -1,0 +1,16 @@
+C:\Users\Cristhian Forero\Desktop\InventarioRepuestos\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Cristhian Forero\Desktop\InventarioRepuestos\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Cristhian Forero\Desktop\InventarioRepuestos\CapaEntidad\bin\Debug\CapaEntidad.xml
+C:\Users\Cristhian Forero\Desktop\InventarioRepuestos\CapaEntidad\obj\Debug\CapaEntidad.Resources.resources
+C:\Users\Cristhian Forero\Desktop\InventarioRepuestos\CapaEntidad\obj\Debug\CapaEntidad.vbproj.GenerateResource.Cache
+C:\Users\Cristhian Forero\Desktop\InventarioRepuestos\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Cristhian Forero\Desktop\InventarioRepuestos\CapaEntidad\obj\Debug\CapaEntidad.xml
+C:\Users\Cristhian Forero\Desktop\InventarioRepuestos\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\crist\Desktop\InventarioRepuestos\CapaEntidad\obj\Debug\CapaEntidad.Resources.resources
+C:\Users\crist\Desktop\InventarioRepuestos\CapaEntidad\obj\Debug\CapaEntidad.vbproj.GenerateResource.Cache
+C:\Users\crist\Desktop\InventarioRepuestos\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\crist\Desktop\InventarioRepuestos\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\crist\Desktop\InventarioRepuestos\CapaEntidad\bin\Debug\CapaEntidad.xml
+C:\Users\crist\Desktop\InventarioRepuestos\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\crist\Desktop\InventarioRepuestos\CapaEntidad\obj\Debug\CapaEntidad.xml
+C:\Users\crist\Desktop\InventarioRepuestos\CapaEntidad\obj\Debug\CapaEntidad.pdb
